@@ -1,6 +1,6 @@
 # Usage Guide
 
-This document provides instructions on how to use the Stock Price Reasoner with Deep Research system.
+This document provides instructions on how to use the Stock Price Deep Reasoner with Deep Research system.
 
 ## Basic Usage
 

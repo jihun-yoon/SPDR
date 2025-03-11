@@ -1,6 +1,6 @@
 # Memory Management
 
-This document explains how the memory system works in the Stock Price Reasoner with Deep Research.
+This document explains how the memory system works in the Stock Price Deep Reasoner with Deep Research system.
 
 ## Memory Components
 

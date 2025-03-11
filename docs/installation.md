@@ -1,6 +1,6 @@
 # Installation Guide
 
-This document provides instructions for installing and setting up the Stock Price Reasoner with Deep Research system.
+This document provides instructions for installing and setting up the Stock Price Deep Reasoner with Deep Research system.
 
 ## Prerequisites
 
@@ -15,8 +15,8 @@ Before installing the system, make sure you have the following prerequisites:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/stock-price-reasoner.git
-cd stock-price-reasoner
+git clone https://github.com/jihun-yoon/SPDR.git
+cd spdr
 ```
 
 ### 2. Create a Virtual Environment (Recommended)

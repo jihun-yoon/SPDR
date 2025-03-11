@@ -1,6 +1,6 @@
 # System Components
 
-This document provides detailed information about each component of the Stock Price Reasoner system.
+This document provides detailed information about each component of the Stock Price Deep Reasoner with Deep Research system.
 
 ## Deep Researcher (`deep_search.py`)
 
