@@ -1,6 +1,6 @@
-# Stock Price Deep Reasoner Documentation
+# SPDR: Stock Price Deep Reasoner Documentation
 
-Welcome to the documentation for the **Stock Price Deep Reasoner** system. This comprehensive guide will help you understand, install, and effectively use our advanced research system based on iterative deep search principles.
+Welcome to the documentation for the **SPDR: Stock Price Deep Reasoner**. This comprehensive guide will help you understand, install, and effectively use our advanced research system based on iterative deep search principles.
 
 ## Documentation Overview
 

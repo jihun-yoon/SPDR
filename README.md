@@ -13,7 +13,7 @@ This project implements a Deep Research system for stock price analysis using op
 ## Project Structure
 
 ```
-stock-price-deep-reasoner/
+SPDR/
 ├── src/
 │   ├── components/
 │   │   ├── deep_search.py      # Main deep search loop implementation
