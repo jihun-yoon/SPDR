@@ -1,24 +1,26 @@
 # System Architecture
 
-The Stock Price Reasoner with Deep Research system is built with a modular architecture designed for flexibility and extensibility. This document provides an overview of the system's architecture and how the components interact.
+The Stock Price Deep Reasoner with Deep Research system is built with a modular architecture designed for flexibility and extensibility. This document provides an overview of the system's architecture and how the components interact.
 
 ## High-Level Architecture
 
 The system follows a layered architecture: 
-+-------------------------------------------------------------------+
-| Main Application |
-+-------------------------------------------------------------------+
-| | |
-v v v
-+------------------+ +-------------------+ +------------------+
-| Deep Researcher | | Memory Management | | LLM Interface |
-+------------------+ +-------------------+ +------------------+
-| | |
-v v v
-+------------------+ +-------------------+ +------------------+
-| Tools | | Utilities | | Configuration |
-+------------------+ +-------------------+ +------------------+
 
+```text
++-------------------------------------------------------------------+
+| Main Application                                                  |
++-------------------------------------------------------------------+
+            |                     |                    |
+            v                     v                    v
++------------------+  +-------------------+  +------------------+
+| Deep Researcher  |  | Memory Management |  | LLM Interface    |
++------------------+  +-------------------+  +------------------+
+            |                     |                    |
+            v                     v                    v
++------------------+  +-------------------+  +------------------+
+| Tools            |  | Utilities         |  | Configuration    |
++------------------+  +-------------------+  +------------------+
+```
 
 ## Core Components
 
