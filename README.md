@@ -1,4 +1,4 @@
-# SPDR: Stock Price Deep Reasoner
+# Stock Price Deep Reasoner
 
 This project implements a Deep Research system for stock price analysis using open-source models via Langchain and vLLM. The system is based on the iterative deep search approach described in [Jina AI's blog post on implementing DeepSearch/DeepResearch](https://jina.ai/news/a-practical-guide-to-implementing-deepsearch-deepresearch/).
 
@@ -13,7 +13,7 @@ This project implements a Deep Research system for stock price analysis using op
 ## Project Structure
 
 ```
-SPDR/
+stock-price-deep-reasoner/
 ├── src/
 │   ├── components/
 │   │   ├── deep_search.py      # Main deep search loop implementation
